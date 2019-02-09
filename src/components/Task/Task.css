@@ -1,0 +1,27 @@
+p {
+  display: inline-block;
+}
+
+div {
+  min-height: 40px;
+}
+
+.BtnCont {
+  float: right;
+}
+
+.TaskCont {
+  background-color: blueviolet;
+}
+
+.icon {
+  margin: 10px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.InputCont {
+  display: inline;
+}
